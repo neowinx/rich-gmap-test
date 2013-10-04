@@ -1,0 +1,14 @@
+action.package=org.domain.gmaptest.session
+action.sources=/gmaptest/src/hot
+eclipse.preferences.version=1
+model.package=org.domain.gmaptest.entity
+model.sources=/gmaptest/src/main
+seam.project.connection.profile=gmaptest
+seam.project.deployment.type=war
+seam.project.settings.version=1.1
+seam.project.web.root.folder=/gmaptest/WebContent
+seam.runtime.name=jboss-seam-2.2.2.Final
+seam.test.creating=false
+seam.test.project=gmaptest-test
+test.package=org.domain.gmaptest.test
+test.sources=/gmaptest-test/test-src
